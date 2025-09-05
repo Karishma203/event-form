@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# event-form
+A modern and interactive Event Registration Form built with React. Features include colorful curved input boxes, gradient backgrounds, hover and focus effects, and a success message animation on form submission. Ideal for demonstrating React hooks, component structure, and stylish UI design.
+>>>>>>> 6567cd8b18eaa20e6e31e80cc29169e25bff069b
