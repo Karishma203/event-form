@@ -11,10 +11,10 @@ A modern and interactive Event Registration Form built with **React**.
 ## 🖥️ Screenshots
 
 ### Form Page
-![Form Screenshot](screen_shots/form.png)
+![Form Screenshot](./screen_shots/form.png)
 
 ### Success Message
-![Success Screenshot](screen_shots/Success.png)
+![Success Screenshot](./screen_shots/Sucess.png)
 
 ## ⚡ How to Run
 1. Clone the repository:
